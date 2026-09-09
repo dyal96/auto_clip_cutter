@@ -1,0 +1,12 @@
+# AutoClipper Cloud Web Version Dependencies
+gradio>=4.0.0
+ultralytics>=8.0.0
+opencv-python-headless>=4.8.0
+yt-dlp>=2024.0.0
+openai-whisper
+torch
+torchvision
+torchaudio
+numpy>=1.24.0
+requests
+tqdm
